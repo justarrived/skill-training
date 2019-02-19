@@ -7,6 +7,14 @@ Don't expect to understand the Docker concept immediately. Especially if you hav
 * [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 * [Why Docker](https://www.docker.com/why-docker)
 
+**In short, Docker solves the following head aches common in software development and deployment.**
+
+* Onboard faster and stop wasting hours trying to set up development environments, spin up new instances and make copies of production code to run locally.
+
+* Enable polyglot development and use any language, stack or tools without worry of application conflicts.
+
+* Eliminate environment inconsistencies and the "works on my machine" problem by packaging the application, configs and dependencies into an isolated container.
+
 
 ## Steps
 
