@@ -2,6 +2,7 @@
 
 This document outlines how to learn Docker. 
 If you are completely unfamiliar with Docker, please consult the following resources.
+Don't expect to understand the Docker concept immediately. Especially if you have little or no DevOps experience.
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 * [Why Docker](https://www.docker.com/why-docker)
