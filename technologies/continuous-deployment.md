@@ -13,6 +13,8 @@ Before starting it can be useful to familiarize yourself with [The 12 Factor App
 
 In this guide we will setup a basic CD pipeline on [Heroku](https://heroku.com) which will deploy code from [GitHub](https://github.com).
 
+This guide assumes you are familiar with GitHub. If you are unfamiliar with Heroku, please read more about it on [Wikipedia](https://en.wikipedia.org/wiki/Heroku).
+
 
 ### Create a GitHub account.
 
