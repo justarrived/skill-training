@@ -39,11 +39,9 @@ This guide assumes you are familiar with GitHub. If you are unfamiliar with Hero
 * Push code to `master` branch and have it deploy automatically.
 
 
-### Configure Review Apps
+### Configure Review Apps.
 
 Review apps is an essential part of stable CD. It enables code to be tested properly before integrated into master. In order to understand how GitHub and Heroku works with review apps it is important to first understand Pull Requests in GitHub. You can read more about Pull Requests here: https://help.github.com/articles/about-pull-requests/.
 
 * Setup your Heroku app to use review apps 
-  https://devcenter.heroku.com/articles/github-integration-review-apps.
-
-* Understand 
+  https://devcenter.heroku.com/articles/github-integration-review-apps. 
