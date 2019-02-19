@@ -23,3 +23,9 @@ This guide assumes you are familiar with GitHub. If you are unfamiliar with Hero
 * Pick a repository or create a new basic project.
   For simplicity pick a project (language) that uses [one of Herokus officially supported buildpacks](https://devcenter.heroku.com/articles/buildpacks#officially-supported-buildpacks).
 
+* Setup a [Heroku](https://heroku.com) account or use your existing one.
+
+* Create your first Heroku app by following https://devcenter.heroku.com/start.
+
+* Connect your Heroku app to your GitHub repo and setup automatic deploys
+  https://devcenter.heroku.com/articles/github-integration.
