@@ -28,20 +28,20 @@ This guide assumes you are familiar with GitHub. If you are unfamiliar with Hero
 
 * Setup a [Heroku](https://heroku.com) account or use your existing one.
 
-* Create your first Heroku app by following https://devcenter.heroku.com/start.
+* Create your first Heroku app by following [Getting Started on Heroku](https://devcenter.heroku.com/start).
 
 
 ### Integrate GitHub with Heroku.
 
 * Connect your Heroku app to your GitHub repo and setup automatic deploys
-  https://devcenter.heroku.com/articles/github-integration.
+  [GitHub Integration](https://devcenter.heroku.com/articles/github-integration).
   
 * Push code to `master` branch and have it deploy automatically.
 
 
 ### Configure Review Apps.
 
-Review apps is an essential part of stable CD. It enables code to be tested properly before integrated into master. In order to understand how GitHub and Heroku works with review apps it is important to first understand Pull Requests in GitHub. You can read more about Pull Requests here: https://help.github.com/articles/about-pull-requests/.
+Review apps is an essential part of stable CD. It enables code to be tested properly before integrated into master. In order to understand how GitHub and Heroku works with review apps it is important to first understand Pull Requests in GitHub. You can read more about Pull Requests here: [About Pull Requests](https://help.github.com/articles/about-pull-requests/).
 
 * Setup your Heroku app to use review apps 
-  https://devcenter.heroku.com/articles/github-integration-review-apps. 
+  [GitHub Integration Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps). 
