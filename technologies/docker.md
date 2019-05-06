@@ -38,7 +38,7 @@ Get down and dirty with the first steps of Docker by following the guide below.
 
 ### Run your own application in Docker
 
-Examples are all good and well, but nother beats the hands on experience of having run your own application in Docker.
+Examples are all good and well, but nothing beats the hands on experience of having run your own application in Docker.
 
 * Pick a simple application you have created yourself.
   If your application have external dependencies like a database it is a little more work to get it working. 
